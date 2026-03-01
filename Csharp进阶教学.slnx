@@ -1,3 +1,13 @@
 <Solution>
   <Project Path="lesson01_ArrayList/lesson01_ArrayList.csproj" />
+  <Project Path="lesson01_练习题/lesson01_练习题.csproj" />
+  <Project Path="lesson02_Stack/lesson02_Stack.csproj" Id="8921372a-8798-4d18-9d0b-6385c85e618d" />
+  <Project Path="lesson02_练习题/lesson02_练习题.csproj" Id="37412dfe-bbbe-4967-aca7-38217059d861" />
+  <Project Path="lesson03_Queue/lesson03_Queue.csproj" Id="47e3a9db-a66d-44a1-bd09-4769ca4cda40" />
+  <Project Path="lesson03_练习题/lesson03_练习题.csproj" Id="c5c160b1-a40a-410e-9c26-681b7418f7c6" />
+  <Project Path="lesson04_Hashtable/lesson04_Hashtable.csproj" Id="724e2841-634f-47b7-85b9-a02d3bc3be80" />
+  <Project Path="lesson04_练习题/lesson04_练习题.csproj" Id="79e5c8a3-bae5-4d4a-b75f-f3fa4fb33681" />
+  <Project Path="lesson05_泛型/lesson05_泛型.csproj" Id="50242633-d4f4-4fbb-a644-7d79aa696252" />
+  <Project Path="lesson05_练习题/lesson05_练习题.csproj" Id="a1cb23f7-1bdf-41f7-83a4-3ba6d64bb62d" />
+  <Project Path="lesson06_泛型约束/lesson06_泛型约束.csproj" Id="cb0db1a1-cc70-468d-8873-51eba34a3f22" />
 </Solution>
