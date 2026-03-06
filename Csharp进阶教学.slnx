@@ -10,4 +10,20 @@
   <Project Path="lesson05_泛型/lesson05_泛型.csproj" Id="50242633-d4f4-4fbb-a644-7d79aa696252" />
   <Project Path="lesson05_练习题/lesson05_练习题.csproj" Id="a1cb23f7-1bdf-41f7-83a4-3ba6d64bb62d" />
   <Project Path="lesson06_泛型约束/lesson06_泛型约束.csproj" Id="cb0db1a1-cc70-468d-8873-51eba34a3f22" />
+  <Project Path="lesson06_练习题/lesson06_练习题.csproj" Id="f99355bf-52ae-4b09-b8da-54b3d4268a6c" />
+  <Project Path="lesson07_List/lesson07_List.csproj" Id="c2f2c574-678b-470d-9492-3ff36880299c" />
+  <Project Path="lesson07_练习题/lesson07_练习题.csproj" Id="bc6f5475-e484-46a6-a8bb-b96ac53cc2fb" />
+  <Project Path="lesson08_Dictionary/lesson08_Dictionary.csproj" Id="8f784b9b-102a-42c8-b874-5295a4a007e8" />
+  <Project Path="lesson08_练习题/lesson08_练习题.csproj" Id="ef95824d-d8ce-4181-86fa-b6ef0c472cec" />
+  <Project Path="lesson09_练习题/lesson09_练习题.csproj" Id="d7a56241-cb7f-4732-8240-59d773277230" />
+  <Project Path="lesson09_顺序存储和链式存储/lesson09_顺序存储和链式存储.csproj" Id="bbe974b5-277e-48c0-a8c4-3994f80316c6" />
+  <Project Path="lesson10_LinkedList/lesson10_LinkedList.csproj" Id="97d266d6-533e-4c62-b291-4fdcd5845d4f" />
+  <Project Path="lesson10_练习题/lesson10_练习题.csproj" Id="294e811b-31d7-41e3-9564-9f5ebd62d55b" />
+  <Project Path="lesson11_泛型栈和队列/lesson11_泛型栈和队列.csproj" Id="e5e31f5a-e906-4d4f-8ea5-6d53af0e2d4f" />
+  <Project Path="lesson11_练习题/lesson11_练习题.csproj" Id="36e8abe0-102d-431a-8fd1-af36d8084fce" />
+  <Project Path="lesson12_委托/lesson12_委托.csproj" Id="fbe3cf40-0315-481a-9605-4ef8b69cef23" />
+  <Project Path="lesson12_练习题/lesson12_练习题.csproj" Id="9a31db8a-8be4-4454-8046-72613bf4c277" />
+  <Project Path="lesson13_事件/lesson13_事件.csproj" Id="661cd3be-4b86-4d2c-9c4e-1fd37767c572" />
+  <Project Path="lesson13_练习题/lesson13_练习题.csproj" Id="efd673b0-ef41-4731-a43e-d7c334aab89e" />
+  <Project Path="lesson14_匿名函数/lesson14_匿名函数.csproj" Id="7fa316ee-2b7d-4c2d-b1bf-0aab5d8b61ac" />
 </Solution>
