@@ -26,4 +26,17 @@
   <Project Path="lesson13_事件/lesson13_事件.csproj" Id="661cd3be-4b86-4d2c-9c4e-1fd37767c572" />
   <Project Path="lesson13_练习题/lesson13_练习题.csproj" Id="efd673b0-ef41-4731-a43e-d7c334aab89e" />
   <Project Path="lesson14_匿名函数/lesson14_匿名函数.csproj" Id="7fa316ee-2b7d-4c2d-b1bf-0aab5d8b61ac" />
+  <Project Path="lesson14_练习题/lesson14_练习题.csproj" Id="3d130e4f-83f0-4485-a6ae-967871719a5a" />
+  <Project Path="lesson15_lambda/lesson15_lambda.csproj" Id="4bca7f6a-f493-47e0-9d5a-64f345fecd0b" />
+  <Project Path="lesson15_练习题/lesson15_练习题.csproj" Id="302088f4-0764-4ae5-a4a5-84e2ab857146" />
+  <Project Path="lesson16_List排序/lesson16_List排序.csproj" Id="c1b1dd84-f7cf-4588-b460-b289ba91de83" />
+  <Project Path="lesson16_练习题/lesson16_练习题.csproj" />
+  <Project Path="lesson17_协变逆变/lesson17_协变逆变.csproj" Id="a8c95ae3-e976-4096-b441-d2aba91409e4" />
+  <Project Path="lesson17_练习题/lesson17_练习题.csproj" Id="85a97922-04a8-4f78-a1dc-dd73a219df40" />
+  <Project Path="lesson18_多线程/lesson18_多线程.csproj" Id="ce54c499-6123-49b2-a7a0-ad8e1a439558" />
+  <Project Path="lesson18_练习题/lesson18_练习题.csproj" Id="9c7027b2-b846-4ebd-a719-b6c4b426fa41" />
+  <Project Path="lesson19_练习题/lesson19_练习题.csproj" Id="50240ad5-2e8b-43f3-96ec-1169438b8098" />
+  <Project Path="lesson19_预处理指令/lesson19_预处理指令.csproj" Id="e1881f4f-c136-4a35-a93f-e2f30070ddd6" />
+  <Project Path="lesson20_概念和关键类Type/lesson20_概念和关键类Type.csproj" Id="ea0fff98-e051-4e87-b575-6707febb6736" />
+  <Project Path="类库测试/类库测试.csproj" Id="1a1e4092-5798-4399-a5e5-19675038c20f" />
 </Solution>
